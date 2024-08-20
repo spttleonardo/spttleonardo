@@ -1,16 +1,16 @@
-## Hi there 👋
+### Live long and prosper 🖖
 
-<!--
-**spttleonardo/spttleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-schmitt-controle-automacao)
 
-Here are some ideas to get you started:
+![Leonardo Schmitt GitHub stats](https://github-readme-stats.vercel.app/api?username=spttleonardo&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologia que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br/>
+     <img align="center" alt="html5" src="https://raw.githubusercontent.com/curtisma/MATLAB/master/MATLAB%20Logo.ico"/>
+</div>
