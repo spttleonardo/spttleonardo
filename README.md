@@ -2,8 +2,8 @@
 
 I'm a Control and Automation Engineering student (UFSC).
 
-<div align="center">
-<img  src="https://github.com/spttleonardo/spttleonardo/blob/main/joia.gif" widht="80" height="80">
+<div>
+<img  src="https://github.com/spttleonardo/spttleonardo/blob/main/joia.gif" widht="100" height="100">
 </div>
 
 ## Skills
