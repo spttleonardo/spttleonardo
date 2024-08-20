@@ -1,5 +1,7 @@
 ### Live long and prosper 🖖
 
+I'm a Control and Automation Engineering student (UFSC).
+
 [![Blog](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-schmitt-controle-automacao)
 
 ![Leonardo Schmitt GitHub stats](https://github-readme-stats.vercel.app/api?username=spttleonardo&show_icons=true&theme=tokyonight)
